@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To start the project first run 
+
+### 'npm install' 
+so that it will download required files
+
+This is just the app which was thought in webnar.Refer for better understanding.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +73,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+Mail me if any problem:
+shashankhs333@gmail.com
